@@ -6,10 +6,6 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <p float="left"> <img src="http://p3rz3gu1u.bkt.clouddn.com/2018-06-29-Basic-Structure-FPN.png" width="300" />  </p> | <p float="left"> <img src="http://p3rz3gu1u.bkt.clouddn.com/2018-06-29-Connection.png" width="300" />  </p> |
 
-![Basic-Structure-FPN](http://p3rz3gu1u.bkt.clouddn.com/2018-06-29-Basic-Structure-FPN.png)
-
-![Lateral-Connection](http://p3rz3gu1u.bkt.clouddn.com/2018-06-29-Connection.png)
-
 - Later feature maps in Convs have more semantic information than earlier feature maps, but part of localization have been lost because of too many down samplings. To achive better performance in CV tasks like object detection, localization informantion is needed.
 - This paper use information in bottom-up path and top-down path, join them together using lateral connections. So feature maps (called P2, P3, ...) can have both semantic information from later feature maps and localization information from ealier feature maps.
 - The feature maps from FPN (which are P1, P2, ...) can be used in tasks like RPN and Fast R-CNN to provide more information to improve task performance. Because there are more than one feature maps in the output of FPN, RPN and Fast R-CNN based one them are slightly different form original ones. Details of how to use FPN in RPN and Fast R-CNN are in the original paper.
