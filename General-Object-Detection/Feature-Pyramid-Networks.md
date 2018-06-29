@@ -2,6 +2,10 @@
 
 ## Key Idea
 
+|                     Basic-Structure-FPN                      |                      Lateral-Connection                      |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <p float="left"> <img src="http://p3rz3gu1u.bkt.clouddn.com/2018-06-29-Basic-Structure-FPN.png" width="300" />  </p> | <p float="left"> <img src="http://p3rz3gu1u.bkt.clouddn.com/2018-06-29-Connection.png" width="300" />  </p> |
+
 ![Basic-Structure-FPN](http://p3rz3gu1u.bkt.clouddn.com/2018-06-29-Basic-Structure-FPN.png)
 
 ![Lateral-Connection](http://p3rz3gu1u.bkt.clouddn.com/2018-06-29-Connection.png)
