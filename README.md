@@ -1,6 +1,25 @@
-# Research Notes
+# Paper Notes
 
-This repository is for paper reading and paper notes.
+## Correspondence between note colors and meaning
 
-## Paper Notes
+| Color  |                           Meaning                            |
+| :----: | :----------------------------------------------------------: |
+|  Pink  |         Key ideas/important statements in the paper.         |
+|  Red   | Things that are not understood which should be review later. |
+| Yellow |   Some details/slightly important statemens in the paper.    |
+|  Blue  | Spefic setting/hyperparameters used in the paper or experiment. |
+
+
+
+## General Object Detection
+
+- [Feature-Pyramid-Networks](https://github.com/txytju/Research-Notes/blob/master/General-Object-Detection/Feature-Pyramid-Networks.md)
+
+## OCR
+
+
+
+
+
+
 
