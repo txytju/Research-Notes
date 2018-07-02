@@ -8,6 +8,7 @@
 |  Red   | Things that are not understood which should be review later. |
 | Yellow |   Some details/slightly important statemens in the paper.    |
 |  Blue  | Spefic setting/hyperparameters used in the paper or experiment. |
+| Green  |            Papers to read or other things to do.             |
 
 
 
