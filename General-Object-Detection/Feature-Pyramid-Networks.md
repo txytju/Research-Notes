@@ -1,5 +1,10 @@
 [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144)
 
+## Meta Information
+
+- author : FAIR
+- year : 2017
+
 ## Key Idea
 
 |                     Basic-Structure-FPN                      |                      Lateral-Connection                      |
